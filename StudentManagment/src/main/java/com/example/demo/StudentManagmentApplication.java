@@ -8,7 +8,7 @@ public class StudentManagmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudentManagmentApplication.class, args);
-		System.out.println("HEllo swapnil here  2");
+		System.out.println("Hello Application start here");
 	}
 
 }
